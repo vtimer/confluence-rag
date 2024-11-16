@@ -1,0 +1,15 @@
+langchain~=0.2.12
+pytest
+langchain-chroma
+sentence-transformers
+langchain-community
+nltk~=3.8.1
+beautifulsoup4~=4.12.3
+python-dotenv~=1.0.1
+chromadb~=0.5.5
+torch~=2.3.1
+python-dotenv
+llama-index==0.9.15
+llama-hub
+atlassian-python-api
+markdown
